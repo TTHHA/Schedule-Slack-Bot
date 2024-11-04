@@ -1,0 +1,4 @@
+slackeventsapi
+slack_sdk
+flask
+dotenv
