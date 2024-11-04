@@ -2,11 +2,10 @@
 
 This application integrates with Slack to manage messages related to scheduling and uses Google Calendar API to create events based on available slots. It utilizes Ngrok for public URL exposure.
 ## Demo 
-### Video
-https://github.com/user-attachments/assets/90b82224-84e2-46d0-a026-f83f761f4875
-### Meeting Result
 
-![image](https://github.com/user-attachments/assets/a24db450-0460-46a1-b7fe-1e12254fe328)
+
+https://github.com/user-attachments/assets/a08d954f-94fa-4021-a507-19e3e9beb0b8
+
 
 ## Prerequisites
 
