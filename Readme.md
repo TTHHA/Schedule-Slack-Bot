@@ -1,11 +1,10 @@
-# Slack and Google Calendar Bot
+# Schedule ChatBot
 
-This application integrates with Slack to manage messages related to scheduling and uses Google Calendar API to create events based on available slots. It utilizes Ngrok for public URL exposure.
+This application serves to simplify scheduling meetings by integrating Slack messaging with Google Calendar. Users can convey availability in Slack, and the application interprets these messages, manages scheduling, and confirms appointments, reducing the need for back-and-forth coordination. Through natural language processing (NLP) and the use of generative AI, the app can understand and categorize user messages, extracting free and busy times, and then utilize Google Calendar’s API to automatically schedule the meetings.
+
 ## Demo 
 
-
 https://github.com/user-attachments/assets/a08d954f-94fa-4021-a507-19e3e9beb0b8
-
 
 ## Prerequisites
 
